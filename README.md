@@ -2,4 +2,4 @@
 
 - 🔭 I’m currently working on: NonpexStudios & AkiCraft
 - 🌱 I’m currently learning: Java
-- 📫 How to reach me: ! Üzümlü Dolarlar#9262 (Discord)
+- 📫 How to reach me: ! xDolarlar#9262 (Discord)
