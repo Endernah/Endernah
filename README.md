@@ -1,3 +1,3 @@
-- 🔭 I’m currently working on: Winged Flight Studios And Myself :)
-- 🌱 I’m currently learning: Roblox Lua and About Aircrafts
+- 🔭 I’m currently working on: My PPL license
+- 🌱 I’m currently learning: About Aircrafts
 - 📫 How to reach me: Endernah (Discord)
