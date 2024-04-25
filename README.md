@@ -1,3 +1,3 @@
-- 🔭 I’m currently working on: My PPL license
+- 🔭 I’m currently working on: My student pilot license
 - 🌱 I’m currently learning: About Aircrafts
 - 📫 How to reach me: Endernah (Discord)
