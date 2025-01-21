@@ -1,3 +1,2 @@
-- 🔭 I’m currently working on: My student pilot license
-- 🌱 I’m currently learning: About Aircrafts
+- 🌱 I’m currently learning: Reverse Engineering, Game Hacking, Windows Internals.
 - 📫 How to reach me: Endernah (Discord)
