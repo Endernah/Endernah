@@ -1,2 +1,4 @@
-- 🌱 I’m currently learning: Reverse Engineering, Game Hacking, Windows Internals.
+- 🌱 I’m currently learning: C, Game Hacking and Reverse Engineering.
+- ⚒️ I’m currently working on: Ender CS2, Ender Rust (To be renamed) and private projects.
+- 📖 I have knowledge in: C++, Python, Nodejs, Javascript, Html
 - 📫 How to reach me: Endernah (Discord)
