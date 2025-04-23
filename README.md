@@ -1,4 +1,4 @@
 - 🌱 I’m currently learning: Django
 - ⚒️ I’m currently working on: MindVault and private projects
-- 📖 I have knowledge in: C++, C, Python
-- 📫 How to reach me: Endernah (Discord)
+- 📖 I have knowledge in: Python, C++, and C
+- 📫 How to reach me: Endernah on Discord
