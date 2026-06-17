@@ -1,3 +1,1 @@
-- ⚒️ I’m currently working on: Nothing
-- 📖 I have knowledge in: Python, C++, Java, and C
-- 📫 How to reach me: Endernah on Discord
+
